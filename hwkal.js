@@ -21,9 +21,9 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //=================================================//
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/c/HwModsWa857' // ubah aia
-global.ig = 'https://www.instagram.com/hikal_857/?hl=id' // ubah aja
-global.email = 'denyp857@gmail.com'
+global.tiktok = 'https://tiktok.com/@rizkyibeng' // ubah aia
+global.fb = 'https://facebook.com/ribeng2' // ubah aja
+global.email = 'rizkyibeng211@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'rizky iBeng' //ubah jadi nama mu, note tanda ' gausah di hapus!
